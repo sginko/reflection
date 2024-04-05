@@ -88,7 +88,5 @@ public class Ex1 {
                     " parameters, their types are: " + Arrays.toString(constructor.getParameterTypes()));
         }
         System.out.println("---------------------------------------");
-
-
     }
 }
